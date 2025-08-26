@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "8" -L "xil_defaultlib" -L "secureip" --snapshot "adder_6bit_testbench_behav" "xil_defaultlib.adder_6bit_testbench" -log "elaborate.log" 

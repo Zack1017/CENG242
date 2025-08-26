@@ -1,0 +1,2 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/student/s101113328/CENG242/Lab2/Lab2/Lab2.srcs/sim_1/new/adder_6bit_testbench.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'adder_6bit_testbench'
