@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "8" -L "xil_defaultlib" -L "secureip" --snapshot "eq1_testbench_behav" "xil_defaultlib.eq1_testbench" -log "elaborate.log" 

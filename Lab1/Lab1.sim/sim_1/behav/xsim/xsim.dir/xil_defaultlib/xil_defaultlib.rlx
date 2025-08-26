@@ -1,0 +1,10 @@
+0.7
+2020.2
+May 22 2024
+18:54:44
+/home/student/s101113328/CENG242/Lab1/Lab1.srcs/sim_1/new/decoder_2x4_testbench.vhd,1725983721,vhdl,,,,decoder_2x4_testbench,,,,,,,,
+/home/student/s101113328/CENG242/Lab1/Lab1.srcs/sim_1/new/eq1_testbench.vhdl,1725382714,vhdl,,,,eq1_testbench,,,,,,,,
+/home/student/s101113328/CENG242/Lab1/Lab1.srcs/sim_1/new/eq2_testbench.vhdl,1725384970,vhdl,,,,eq2_testbench,,,,,,,,
+/home/student/s101113328/CENG242/Lab1/Lab1.srcs/sources_1/new/decoder_2x4.vhdl,1725983036,vhdl,/home/student/s101113328/CENG242/Lab1/Lab1.srcs/sim_1/new/decoder_2x4_testbench.vhd,,,decoder_2x4,,,,,,,,
+/home/student/s101113328/CENG242/Lab1/Lab1.srcs/sources_1/new/eq1.vhdl,1725381357,vhdl,/home/student/s101113328/CENG242/Lab1/Lab1.srcs/sim_1/new/eq1_testbench.vhdl,,,eq1,,,,,,,,
+/home/student/s101113328/CENG242/Lab1/Lab1.srcs/sources_1/new/eq2.vhdl,1725985639,vhdl,/home/student/s101113328/CENG242/Lab1/Lab1.srcs/sim_1/new/eq2_testbench.vhdl,,,eq2,,,,,,,,
